@@ -1,0 +1,38 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\private\\core\\leveleditor\\config\\custominputmappingdetails.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\intermediate\\build\\win64\\x64\\environmentbuildereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonarchitecteditor\\definitions.dungeonarchitecteditor.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\leveleditor\\config\\custominputmappingdetails.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\idetailcustomnodebuilder.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\idetailcustomization.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\common\\utils\\dungeoneditorutils.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\detaillayoutbuilder.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\idetailpropertyrow.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\notifications\\snotificationlist.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\leveleditor\\config\\custominputmapping.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerinput.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\gesturerecognizer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\keystate.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerinput.generated.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonarchitecteditor\\uht\\custominputmapping.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\detailcategorybuilder.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\detailbuildertypes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\propertyeditorcopypaste.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\idetailchildrenbuilder.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\idetailgroup.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\documentation\\public\\idocumentation.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\documentation\\public\\idocumentationmodule.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\propertycustomizationhelpers.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\detailwidgetrow.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\propertyeditor\\public\\sresettodefaultmenu.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\actorpickermode\\public\\actorpickermode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\scenedepthpickermode\\public\\scenedepthpickermode.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

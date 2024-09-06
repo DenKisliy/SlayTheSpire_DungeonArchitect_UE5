@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\private\\core\\editors\\themeeditor\\widgets\\sgraphnode_dungeonmarkeremitter.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\intermediate\\build\\win64\\x64\\environmentbuildereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonarchitecteditor\\definitions.dungeonarchitecteditor.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\editors\\themeeditor\\widgets\\sgraphnode_dungeonmarkeremitter.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\editors\\themeeditor\\appmodes\\themegraph\\graph\\edgraphnode_dungeonmarkeremitter.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\editors\\themeeditor\\appmodes\\themegraph\\graph\\edgraphnode_dungeonbase.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonarchitecteditor\\uht\\edgraphnode_dungeonbase.generated.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonarchitecteditor\\uht\\edgraphnode_dungeonmarkeremitter.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\sgraphnode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\snodepanel.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\diffresults.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\marqueeoperation.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\editors\\themeeditor\\widgets\\sdungeonoutputpin.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\sgraphpin.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\layout\\swrapbox.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\text\\sinlineeditabletextblock.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

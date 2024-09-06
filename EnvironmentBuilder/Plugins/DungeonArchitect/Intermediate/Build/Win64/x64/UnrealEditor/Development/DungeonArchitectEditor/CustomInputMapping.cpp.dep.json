@@ -1,0 +1,37 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\private\\core\\leveleditor\\config\\custominputmapping.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\intermediate\\build\\win64\\x64\\environmentbuildereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonarchitecteditor\\definitions.dungeonarchitecteditor.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\leveleditor\\config\\custominputmapping.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\playerinput.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\gesturerecognizer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\keystate.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\playerinput.generated.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonarchitecteditor\\uht\\custominputmapping.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\billboardcomponent.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\billboardcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\engineutils.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\inputsettings.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\developersettings\\public\\engine\\platformsettings.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\developersettings\\public\\engine\\platformsettingsmanager.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\developersettings\\uht\\platformsettingsmanager.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\developersettings\\uht\\platformsettings.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\inputsettings.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\mainframe\\public\\interfaces\\imainframemodule.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\leveleditor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\ileveleditor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\elements\\framework\\engineelementslibrary.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\engineelementslibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\viewporttypedefinition.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\leveleditoroutlinersettings.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\developer\\toolwidgets\\public\\filters\\genericfilter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\developer\\toolwidgets\\public\\filters\\filterbase.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

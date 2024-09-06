@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonarchitectruntime\\uht\\dungeoncanvasstructs.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\intermediate\\build\\win64\\x64\\environmentbuildereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonarchitectruntime\\definitions.dungeonarchitectruntime.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitectruntime\\public\\frameworks\\canvas\\dungeoncanvasstructs.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitectruntime\\public\\core\\utils\\commonstructs.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonarchitectruntime\\uht\\commonstructs.generated.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonarchitectruntime\\uht\\dungeoncanvasstructs.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

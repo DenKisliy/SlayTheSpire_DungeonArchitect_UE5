@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\private\\core\\leveleditor\\visualizers\\dungeoncanvasoverlaytexturevisualizer.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\intermediate\\build\\win64\\x64\\environmentbuildereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonarchitecteditor\\definitions.dungeonarchitecteditor.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\leveleditor\\visualizers\\dungeoncanvasoverlaytexturevisualizer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\componentvisualizer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\elements\\framework\\engineelementslibrary.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\engineelementslibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\componentvisualizer.generated.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitectruntime\\public\\frameworks\\canvas\\dungeoncanvasroomshapetexture.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonarchitectruntime\\uht\\dungeoncanvasroomshapetexture.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\dynamicmeshbuilder.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\editorframework\\public\\editormodes.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\materials\\materialrenderproxy.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

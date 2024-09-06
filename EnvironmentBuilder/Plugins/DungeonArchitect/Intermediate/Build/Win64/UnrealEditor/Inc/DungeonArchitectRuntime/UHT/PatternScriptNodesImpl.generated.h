@@ -1,0 +1,336 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "Frameworks/MarkerGenerator/PatternScript/Impl/PatternScriptNodesImpl.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef DUNGEONARCHITECTRUNTIME_PatternScriptNodesImpl_generated_h
+#error "PatternScriptNodesImpl.generated.h already included, missing '#pragma once' in PatternScriptNodesImpl.h"
+#endif
+#define DUNGEONARCHITECTRUNTIME_PatternScriptNodesImpl_generated_h
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_13_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNode_EmitMarker(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNode_EmitMarker_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNode_EmitMarker, UMGPatternActionScriptNodeBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNode_EmitMarker)
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_13_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternScriptNode_EmitMarker(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	UMGPatternScriptNode_EmitMarker(UMGPatternScriptNode_EmitMarker&&); \
+	UMGPatternScriptNode_EmitMarker(const UMGPatternScriptNode_EmitMarker&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNode_EmitMarker); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNode_EmitMarker); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternScriptNode_EmitMarker) \
+	NO_API virtual ~UMGPatternScriptNode_EmitMarker();
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_11_PROLOG
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_13_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_13_INCLASS_NO_PURE_DECLS \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_13_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class UMGPatternScriptNode_EmitMarker>();
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_49_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNode_RemoveMarker(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNode_RemoveMarker_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNode_RemoveMarker, UMGPatternActionScriptNodeBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNode_RemoveMarker)
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_49_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternScriptNode_RemoveMarker(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	UMGPatternScriptNode_RemoveMarker(UMGPatternScriptNode_RemoveMarker&&); \
+	UMGPatternScriptNode_RemoveMarker(const UMGPatternScriptNode_RemoveMarker&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNode_RemoveMarker); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNode_RemoveMarker); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternScriptNode_RemoveMarker) \
+	NO_API virtual ~UMGPatternScriptNode_RemoveMarker();
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_47_PROLOG
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_49_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_49_INCLASS_NO_PURE_DECLS \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_49_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class UMGPatternScriptNode_RemoveMarker>();
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_68_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNode_LogicalAnd(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNode_LogicalAnd_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNode_LogicalAnd, UMGPatternConditionalScriptNodeBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNode_LogicalAnd)
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_68_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternScriptNode_LogicalAnd(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	UMGPatternScriptNode_LogicalAnd(UMGPatternScriptNode_LogicalAnd&&); \
+	UMGPatternScriptNode_LogicalAnd(const UMGPatternScriptNode_LogicalAnd&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNode_LogicalAnd); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNode_LogicalAnd); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternScriptNode_LogicalAnd) \
+	NO_API virtual ~UMGPatternScriptNode_LogicalAnd();
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_66_PROLOG
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_68_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_68_INCLASS_NO_PURE_DECLS \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_68_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class UMGPatternScriptNode_LogicalAnd>();
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_84_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNode_LogicalNot(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNode_LogicalNot_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNode_LogicalNot, UMGPatternConditionalScriptNodeBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNode_LogicalNot)
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_84_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternScriptNode_LogicalNot(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	UMGPatternScriptNode_LogicalNot(UMGPatternScriptNode_LogicalNot&&); \
+	UMGPatternScriptNode_LogicalNot(const UMGPatternScriptNode_LogicalNot&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNode_LogicalNot); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNode_LogicalNot); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternScriptNode_LogicalNot) \
+	NO_API virtual ~UMGPatternScriptNode_LogicalNot();
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_82_PROLOG
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_84_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_84_INCLASS_NO_PURE_DECLS \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_84_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class UMGPatternScriptNode_LogicalNot>();
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_99_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNode_LogicalOr(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNode_LogicalOr_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNode_LogicalOr, UMGPatternConditionalScriptNodeBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNode_LogicalOr)
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_99_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternScriptNode_LogicalOr(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	UMGPatternScriptNode_LogicalOr(UMGPatternScriptNode_LogicalOr&&); \
+	UMGPatternScriptNode_LogicalOr(const UMGPatternScriptNode_LogicalOr&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNode_LogicalOr); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNode_LogicalOr); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternScriptNode_LogicalOr) \
+	NO_API virtual ~UMGPatternScriptNode_LogicalOr();
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_97_PROLOG
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_99_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_99_INCLASS_NO_PURE_DECLS \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_99_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class UMGPatternScriptNode_LogicalOr>();
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_115_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNode_MarkerExists(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNode_MarkerExists_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNode_MarkerExists, UMGPatternConditionalScriptNodeBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNode_MarkerExists)
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_115_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternScriptNode_MarkerExists(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	UMGPatternScriptNode_MarkerExists(UMGPatternScriptNode_MarkerExists&&); \
+	UMGPatternScriptNode_MarkerExists(const UMGPatternScriptNode_MarkerExists&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNode_MarkerExists); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNode_MarkerExists); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternScriptNode_MarkerExists) \
+	NO_API virtual ~UMGPatternScriptNode_MarkerExists();
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_113_PROLOG
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_115_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_115_INCLASS_NO_PURE_DECLS \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_115_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class UMGPatternScriptNode_MarkerExists>();
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_132_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNode_MarkerListExists(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNode_MarkerListExists_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNode_MarkerListExists, UMGPatternConditionalScriptNodeBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNode_MarkerListExists)
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_132_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternScriptNode_MarkerListExists(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	UMGPatternScriptNode_MarkerListExists(UMGPatternScriptNode_MarkerListExists&&); \
+	UMGPatternScriptNode_MarkerListExists(const UMGPatternScriptNode_MarkerListExists&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNode_MarkerListExists); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNode_MarkerListExists); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternScriptNode_MarkerListExists) \
+	NO_API virtual ~UMGPatternScriptNode_MarkerListExists();
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_130_PROLOG
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_132_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_132_INCLASS_NO_PURE_DECLS \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_132_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class UMGPatternScriptNode_MarkerListExists>();
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_150_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNode_OnPass(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNode_OnPass_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNode_OnPass, UMGPatternActionScriptNodeBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNode_OnPass)
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_150_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternScriptNode_OnPass(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	UMGPatternScriptNode_OnPass(UMGPatternScriptNode_OnPass&&); \
+	UMGPatternScriptNode_OnPass(const UMGPatternScriptNode_OnPass&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNode_OnPass); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNode_OnPass); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternScriptNode_OnPass) \
+	NO_API virtual ~UMGPatternScriptNode_OnPass();
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_148_PROLOG
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_150_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_150_INCLASS_NO_PURE_DECLS \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_150_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class UMGPatternScriptNode_OnPass>();
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_165_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUMGPatternScriptNode_Result(); \
+	friend struct Z_Construct_UClass_UMGPatternScriptNode_Result_Statics; \
+public: \
+	DECLARE_CLASS(UMGPatternScriptNode_Result, UMGPatternConditionalScriptNodeBase, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DungeonArchitectRuntime"), NO_API) \
+	DECLARE_SERIALIZER(UMGPatternScriptNode_Result)
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_165_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UMGPatternScriptNode_Result(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	UMGPatternScriptNode_Result(UMGPatternScriptNode_Result&&); \
+	UMGPatternScriptNode_Result(const UMGPatternScriptNode_Result&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UMGPatternScriptNode_Result); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UMGPatternScriptNode_Result); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UMGPatternScriptNode_Result) \
+	NO_API virtual ~UMGPatternScriptNode_Result();
+
+
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_163_PROLOG
+#define FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_165_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_165_INCLASS_NO_PURE_DECLS \
+	FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h_165_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTRUNTIME_API UClass* StaticClass<class UMGPatternScriptNode_Result>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_EnvironmentBuilder_Plugins_DungeonArchitect_Source_DungeonArchitectRuntime_Public_Frameworks_MarkerGenerator_PatternScript_Impl_PatternScriptNodesImpl_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

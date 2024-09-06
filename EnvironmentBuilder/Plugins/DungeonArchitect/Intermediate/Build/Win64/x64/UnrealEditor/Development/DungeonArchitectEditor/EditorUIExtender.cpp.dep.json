@@ -1,0 +1,25 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\private\\core\\leveleditor\\extenders\\editoruiextender.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\intermediate\\build\\win64\\x64\\environmentbuildereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonarchitecteditor\\definitions.dungeonarchitecteditor.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\leveleditor\\extenders\\editoruiextender.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\leveleditor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\ileveleditor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\elements\\framework\\engineelementslibrary.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\engineelementslibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\viewporttypedefinition.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\leveleditoroutlinersettings.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\developer\\toolwidgets\\public\\filters\\genericfilter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\developer\\toolwidgets\\public\\filters\\filterbase.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\editors\\launchpad\\launchpad.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\leveleditor\\customizations\\dungeonarchitectstyle.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\leveleditor\\helpsystem\\dungeonarchitecthelpsystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

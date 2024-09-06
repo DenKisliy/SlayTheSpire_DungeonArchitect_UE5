@@ -1,0 +1,43 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\private\\core\\editors\\themeeditor\\appmodes\\markergenerator\\patterneditor\\patterneditorwidget.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\intermediate\\build\\win64\\x64\\environmentbuildereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonarchitecteditor\\definitions.dungeonarchitecteditor.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\editors\\themeeditor\\appmodes\\markergenerator\\patterneditor\\patterneditorwidget.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\editors\\themeeditor\\appmodes\\markergenerator\\patterneditor\\patterneditor.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\editors\\themeeditor\\appmodes\\markergenerator\\patterneditor\\pattereditorinputinterface.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\editors\\themeeditor\\appmodes\\markergenerator\\patterneditor\\patterneditormode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\edmode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\editormoderegistry.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\tools\\uedmode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\uedmode.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\tools\\legacyedmodewidgethelpers.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\tools\\legacyedmodeinterfaces.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\legacyedmodeinterfaces.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\uht\\legacyedmodewidgethelpers.generated.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\editors\\themeeditor\\appmodes\\markergenerator\\patterneditor\\viewport\\patterneditorviewport.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\seditorviewport.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\sviewport.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\editors\\themeeditor\\dungeonarchitectthemeeditor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\workfloworientedapp\\workflowcentricapplication.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\editormodemanager.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\layout\\swidgetswitcher.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\typedelementruntime\\public\\elements\\framework\\typedelementselectionset.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\typedelementruntime\\public\\elements\\framework\\typedelementinterfacecustomization.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementlist.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementcounter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\typedelementframework\\uht\\typedelementcounter.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\typedelementruntime\\public\\elements\\framework\\typedelementlistobjectutil.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\typedelementruntime\\public\\elements\\interfaces\\typedelementselectioninterface.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\typedelementframework\\public\\elements\\framework\\typedelementlistproxy.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\typedelementframework\\uht\\typedelementlistproxy.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\typedelementruntime\\uht\\typedelementselectioninterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\typedelementruntime\\uht\\typedelementselectionset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

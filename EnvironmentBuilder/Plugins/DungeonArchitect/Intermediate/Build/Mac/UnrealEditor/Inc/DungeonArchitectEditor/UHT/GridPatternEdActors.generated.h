@@ -1,0 +1,159 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+// IWYU pragma: private, include "Core/Editors/ThemeEditor/AppModes/MarkerGenerator/PatternEditor/Impl/Grid/GridPatternEdActors.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class UCanvas;
+#ifdef DUNGEONARCHITECTEDITOR_GridPatternEdActors_generated_h
+#error "GridPatternEdActors.generated.h already included, missing '#pragma once' in GridPatternEdActors.h"
+#endif
+#define DUNGEONARCHITECTEDITOR_GridPatternEdActors_generated_h
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_19_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUGridPatternEdGroundItem(); \
+	friend struct Z_Construct_UClass_UGridPatternEdGroundItem_Statics; \
+public: \
+	DECLARE_CLASS(UGridPatternEdGroundItem, UStaticMeshComponent, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/DungeonArchitectEditor"), NO_API) \
+	DECLARE_SERIALIZER(UGridPatternEdGroundItem)
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_19_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	UGridPatternEdGroundItem(UGridPatternEdGroundItem&&); \
+	UGridPatternEdGroundItem(const UGridPatternEdGroundItem&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UGridPatternEdGroundItem); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UGridPatternEdGroundItem); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UGridPatternEdGroundItem) \
+	NO_API virtual ~UGridPatternEdGroundItem();
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_17_PROLOG
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_19_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_19_INCLASS_NO_PURE_DECLS \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_19_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTEDITOR_API UClass* StaticClass<class UGridPatternEdGroundItem>();
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_60_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAGridPatternEdCursorActor(); \
+	friend struct Z_Construct_UClass_AGridPatternEdCursorActor_Statics; \
+public: \
+	DECLARE_CLASS(AGridPatternEdCursorActor, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/DungeonArchitectEditor"), NO_API) \
+	DECLARE_SERIALIZER(AGridPatternEdCursorActor)
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_60_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	AGridPatternEdCursorActor(AGridPatternEdCursorActor&&); \
+	AGridPatternEdCursorActor(const AGridPatternEdCursorActor&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AGridPatternEdCursorActor); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGridPatternEdCursorActor); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AGridPatternEdCursorActor) \
+	NO_API virtual ~AGridPatternEdCursorActor();
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_58_PROLOG
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_60_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_60_INCLASS_NO_PURE_DECLS \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_60_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTEDITOR_API UClass* StaticClass<class AGridPatternEdCursorActor>();
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_78_RPC_WRAPPERS_NO_PURE_DECLS \
+	DECLARE_FUNCTION(execRenderCanvas);
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_78_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAGridPatternEdRuleActor(); \
+	friend struct Z_Construct_UClass_AGridPatternEdRuleActor_Statics; \
+public: \
+	DECLARE_CLASS(AGridPatternEdRuleActor, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/DungeonArchitectEditor"), NO_API) \
+	DECLARE_SERIALIZER(AGridPatternEdRuleActor)
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_78_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	AGridPatternEdRuleActor(AGridPatternEdRuleActor&&); \
+	AGridPatternEdRuleActor(const AGridPatternEdRuleActor&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AGridPatternEdRuleActor); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGridPatternEdRuleActor); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AGridPatternEdRuleActor) \
+	NO_API virtual ~AGridPatternEdRuleActor();
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_76_PROLOG
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_78_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_78_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_78_INCLASS_NO_PURE_DECLS \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_78_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTEDITOR_API UClass* StaticClass<class AGridPatternEdRuleActor>();
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_138_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAGridPatternEdGroundActor(); \
+	friend struct Z_Construct_UClass_AGridPatternEdGroundActor_Statics; \
+public: \
+	DECLARE_CLASS(AGridPatternEdGroundActor, AActor, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/DungeonArchitectEditor"), NO_API) \
+	DECLARE_SERIALIZER(AGridPatternEdGroundActor)
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_138_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	AGridPatternEdGroundActor(AGridPatternEdGroundActor&&); \
+	AGridPatternEdGroundActor(const AGridPatternEdGroundActor&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AGridPatternEdGroundActor); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGridPatternEdGroundActor); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AGridPatternEdGroundActor) \
+	NO_API virtual ~AGridPatternEdGroundActor();
+
+
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_136_PROLOG
+#define FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_138_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_138_INCLASS_NO_PURE_DECLS \
+	FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h_138_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DUNGEONARCHITECTEDITOR_API UClass* StaticClass<class AGridPatternEdGroundActor>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID FID_Build_U5M_Marketplace_Mac_Sync_LocalBuilds_PluginTemp_HostProject_Plugins_DungeonArchitect_Source_DungeonArchitectEditor_Public_Core_Editors_ThemeEditor_AppModes_MarkerGenerator_PatternEditor_Impl_Grid_GridPatternEdActors_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

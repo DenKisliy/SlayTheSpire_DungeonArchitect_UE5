@@ -1,0 +1,26 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\private\\frameworks\\flow\\domains\\layoutgraph\\flowlayoutgraphhandler.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\intermediate\\build\\win64\\x64\\environmentbuildereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonarchitecteditor\\definitions.dungeonarchitecteditor.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\frameworks\\flow\\domains\\layoutgraph\\flowlayoutgraphhandler.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\frameworks\\flow\\domains\\layoutgraph\\flowlayoutedgraphnode.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeonarchitecteditor\\uht\\flowlayoutedgraphnode.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\edgraphutilities.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\framework\\commands\\genericcommands.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\applicationcore\\public\\hal\\platformapplicationmisc.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\applicationcore\\public\\windows\\windowsplatformapplicationmisc.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\applicationcore\\public\\genericplatform\\genericplatformapplicationmisc.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\kismet2\\blueprinteditorutils.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\classviewer\\public\\classviewermodule.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\snodepanel.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\diffresults.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\grapheditor\\public\\marqueeoperation.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

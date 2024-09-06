@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\private\\core\\editors\\snapconnectioneditor\\preview3d\\ssnapconnectionpreview3dviewporttoolbar.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\intermediate\\build\\win64\\x64\\environmentbuildereditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeonarchitecteditor\\definitions.dungeonarchitecteditor.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\editors\\snapconnectioneditor\\preview3d\\ssnapconnectionpreview3dviewporttoolbar.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\sviewporttoolbar.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\editors\\snapconnectioneditor\\preview3d\\ssnapconnectionpreview3dviewport.h",
+            "f:\\games ue\\slaythespire_dungeonarchitect_ue5\\environmentbuilder\\plugins\\dungeonarchitect\\source\\dungeonarchitecteditor\\public\\core\\editors\\snapconnectioneditor\\snapconnectioneditor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\seditorviewport.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\slate\\public\\widgets\\sviewport.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\editorviewportcommands.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\leveleditor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\ileveleditor.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\elements\\framework\\engineelementslibrary.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\engineelementslibrary.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\viewporttypedefinition.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\leveleditor\\public\\leveleditoroutlinersettings.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\developer\\toolwidgets\\public\\filters\\genericfilter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\developer\\toolwidgets\\public\\filters\\filterbase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\seditorviewporttoolbarmenu.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\editor\\unrealed\\public\\seditorviewportviewmenu.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
